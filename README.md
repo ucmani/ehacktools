@@ -1,7 +1,7 @@
 # ehacktools
 ### A list of tools used for pentesting.
 #### Abbreviations and Terminologies
-* NIST Security Abbrevations and Terminologies [https://www.nsi.org/pdf/reports/NIST%20Network%20Security%20Acronyms.pdf]
+* [NIST Security Abbrevations and Terminologies](https://www.nsi.org/pdf/reports/NIST%20Network%20Security%20Acronyms.pdf)
 #### Cryptography
 * CrypTool, Cryptol, CryptoBench - Cryptanalysis
 * VeraCrypt, Symantec Drive Encryption, AxCrypt - Disk Encryption
