@@ -37,3 +37,27 @@
 * RetinaCS - Vulnerability Management
 * SAINT Security Suite - Assessment and Asset Management
 * beSECURE Automated Vulnerability Detection System - Automated Vulnerability Assessment
+
+#### Password Cracking and Password Recovery Tools
+##### Default Passwords
+* [Open SEZ](http://open-sez.me/)
+* [CIRT Password DataBase] (https://cirt.net/passwords)
+* [Default Router Passwords] (https://www.routerpasswords.com/)
+* [Forty Pound Head Default Password List](https://www.fortypoundhead.com/tools_dpw.asp)
+* [Default-Password List](https://default-password.info/)
+##### Rainbow Tables
+* rtgen, Winrtgen 
+##### Password Recovery
+* Elcomsoft Password Recovery
+* PCUnlocker
+* Passware kit forensic
+* Stellar Pheonix password recovery
+##### Password Hashes
+* pwdump
+* fgdump
+* hashcat
+##### Password Cracking
+* Lopht Crack
+* ophcrack
+* Rainbow Crack
+* Cain and Abel
