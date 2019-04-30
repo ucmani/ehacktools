@@ -41,12 +41,13 @@
 #### Password Cracking and Password Recovery Tools
 ##### Default Passwords
 * [Open SEZ](http://open-sez.me/)
-* [CIRT Password DataBase] (https://cirt.net/passwords)
-* [Default Router Passwords] (https://www.routerpasswords.com/)
+* [CIRT Password DataBase](https://cirt.net/passwords)
+* [Default Router Passwords](https://www.routerpasswords.com/)
 * [Forty Pound Head Default Password List](https://www.fortypoundhead.com/tools_dpw.asp)
 * [Default-Password List](https://default-password.info/)
 ##### Rainbow Tables
-* rtgen, Winrtgen 
+* rtgen
+* Winrtgen 
 ##### Password Recovery
 * Elcomsoft Password Recovery
 * PCUnlocker
