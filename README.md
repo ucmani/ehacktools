@@ -14,7 +14,7 @@
 * WiGLE, Skyhook, Maptitude, GPSVisualizer, TracMaker - GPS Mapping
 * Wireshark, Steel Central Packet Analyzer, OmniPeek, Commview - Packet Sniffers
 * Ekahau Spectrum Analyzer - Spectrum Analysis
-* Aircrack-ng, Cain and Abel, Elcomsoft Wireless Security Auditor, coWPAtty, Reaver Pro II - Password Cracking
+* Aircrack-ng, Cain and Abel, Elcomsoft Wireless Security Auditor, coWPAtty, Reaver Pro II, wifite2, bully - Password Cracking
 * Cisco Adaptive Wireless IPS - Security Auditing
 * Blue diving, Bluelog, Bloover II - Bluetooth Security Tools
 * WiFi Protector, WiFi Guard, WiFi Inspector - Mobile WiFi Security Tools
