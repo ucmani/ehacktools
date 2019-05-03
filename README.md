@@ -173,3 +173,25 @@
 * DNSStuff
 * SONAR
 
+#### Trojans
+##### RAT
+* MoSucker
+* ProRAT
+* njRAT
+* Netwire
+* DarkComet
+* Houdini
+* PCRat/Ghost
+##### Backdoor Trojan
+* Poison IVY
+* Kovter
+* Nitol
+* Qadars
+##### Rootkit Trojans
+* Wingbird
+* Finfisher
+* Grayfish
+* Whistler
+* ZeroAccess
+
+
