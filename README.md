@@ -193,5 +193,12 @@
 * Grayfish
 * Whistler
 * ZeroAccess
+##### Virus Creator
+* SonicBat
+* TeraBit
+* DELmE
+##### Worm Makers
+* Batch Worm Generator
+* C++ Worm Generator
 
 
