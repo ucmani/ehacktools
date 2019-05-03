@@ -93,3 +93,83 @@
 * Gargyole
 * StegAlyzer SS
 * Virtual Steganography Laboratory
+
+#### Malware Analysis
+##### Wrappers
+Elite Wrap
+Soprano 3
+exec2vbs
+##### Trojan Horse Construction Kit
+Dark Horse Trojan Virus Maker
+Senna Spy Trojan Generator
+Umbra loader
+##### Crypter
+BitCrypter
+Betacrypt
+CypherX
+##### Exploit Kit
+RIG Exploit Kit
+Magnitude
+Terror
+Angler
+Neutrino
+Sundown
+##### File Fingerprinting
+Hashmyfiles
+Hashtab
+Hashcalc
+md5deep
+##### Online Malware Scanning
+Jotti
+IOBit
+Metadefender
+##### String searched
+FLOSS
+strings
+BINtext
+##### Packet/Obfuscation Detection
+PEId
+UPX
+exeinfo
+##### File dependecy identification
+Dependency Walker
+Synk
+RetireJS
+##### Port Monitoring
+netstat
+TCPView
+CurrPorts
+##### Process Monitoring
+Process Explorer
+Monit
+##### Registry Monitoring
+regshot
+RegScanner
+Reg Organizer
+JV16 Power Tools
+##### Service Monitoring
+Windows Service Manager(srvman)
+Process Hacker
+##### Installation Monitoring
+Mirekusoft
+SysAnalyzer
+Revo Uninstaller
+##### Device Driver Monitoring
+DriverView
+DriverBooster
+DriverReviver
+##### Files and Folder Monitoring
+SIGVERIF
+TripWire
+Netwrix Auditor
+VeriSys
+##### API Calls Monitoring
+API metrics
+APIMonitor
+Runscope
+AlertSite
+##### DNS Monitoring
+DNSQuerySniffer
+DNSStuff
+SONAR
+
