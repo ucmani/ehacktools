@@ -203,4 +203,21 @@
 * Batch Worm Generator
 * C++ Worm Generator
 
+#### Footprinting
+##### TLD Identification
+* sublist3r
+##### OS Determination
+* netcraft
+* shodan
+* censys
+##### Website fingerprinting
+* Burpsuite
+* Zaproxy
+* Paros Proxy
+* Firebug
+##### Webspiders
+* Spiderfoot
+* Wildshark Seo spider tool
+* Webdata extractor
+
 
